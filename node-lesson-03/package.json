@@ -1,0 +1,15 @@
+{
+  "name": "lesson-03",
+  "version": "1.0.0",
+  "description": "asssignment code like a girl",
+  "main": "calculate.js",
+  "scripts": {
+    "start": "node calculate.js",
+    "test": "jest --coverage"
+  },
+  "author": "Karyna Kasnikouskaya",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
