@@ -1,0 +1,15 @@
+{
+  "name": "lesson-06",
+  "version": "1.0.0",
+  "description": "users endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Karyna Kasnikoyuskaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
